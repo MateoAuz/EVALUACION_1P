@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
+# Universidad UTA 
+## Facultad FISEI  
 ### Carrera de Ingeniería en Software  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Mateo Auz
+**Fecha:** 07/10/2025 
 
 ---
 
@@ -114,6 +114,14 @@ Se prueba el archivo .gitignore con los archivos prueba.txt prueba.md
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
+Los comandos utilizados para trabajar con git flow son :
+- git flow init
+- git git flow hotfix start nombre
+- git add archivo
+- git commit -m ""
+- git flow hotfix finish nombre
+
+
 
 ---
 
