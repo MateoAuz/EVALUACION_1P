@@ -1,4 +1,4 @@
-# Universidad UTA 
+# Universidad Universidad Tecnica
 ## Facultad FISEI  
 ### Carrera de Ingeniería en Software  
 
