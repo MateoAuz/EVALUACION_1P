@@ -121,7 +121,7 @@ Los comandos utilizados para trabajar con git flow son :
 - git commit -m ""
 - git flow hotfix finish nombre
 
-
+![Cierre gitFlow](/img/gitflow%20finish.png)
 
 ---
 
