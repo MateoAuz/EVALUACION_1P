@@ -155,6 +155,25 @@ Los comandos utilizados para trabajar con git flow son :
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
 
+- Un issue en GitHub es como una nota que se usa para reportar errores, pedir nuevas funciones o dejar tareas pendientes. Ayuda a organizar el trabajo y permite que todos en el equipo sepan qué se necesita hacer.
+- Un pull request es una solicitud para revisar y unir cambios hechos en una rama del proyecto. Sirve para que otros vean el código, lo revisen y lo aprueben antes de que se agregue al proyecto principal.
+- La diferencia es que el issue dice qué hay que hacer, y el pull request muestra cómo se hizo. En equipo, primero se crea un issue para plantear el problema, luego alguien hace los cambios y abre un pull request que, al aprobarse, puede cerrar el issue automáticamente.
+
+Resumen del procedimiento realizado
+- Me aseguré de estar en la rama develop, creada previamente con Git Flow.
+- En GitHub, creé un issue titulado "Respuesta a la Pregunta 4" con la descripción: “Documentar la respuesta a la Pregunta 4 en el archivo README.md”.
+- Edité el archivo README.md para incluir la explicación sobre qué es un issue, qué es un pull request, sus diferencias y cómo se relacionan.
+- Realicé un commit con los cambios
+
+Issue: #1 https://github.com/MateoAuz/EVALUACION_1P/issues/1
+
+![Issue](/img/issue.png)
+
+Pull request: https://github.com/MateoAuz/EVALUACION_1P/pull/2
+
+![Pull](/img/crear%20pull%20request.png)
+
+![Revisar](/img/responder.png)
 ---
 
 ## Pregunta 5 (2 puntos)
