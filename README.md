@@ -161,8 +161,11 @@ Issue: #1 https://github.com/MateoAuz/EVALUACION_1P/issues/1
 
 ![Issue](/img/issue.png)
 
-Pull request: 
+Pull request: https://github.com/MateoAuz/EVALUACION_1P/pull/2
 
+![Pull](/img/crear%20pull%20request.png)
+
+![Revisar](/img/responder.png)
 ---
 
 ## Pregunta 5 (2 puntos)
